@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+    font-size: 'roboto';
+    font-weight: 500;
+}
+p {
+    text-align: justify;
+    font-size: 'roboto';
+    font-weight: normal;
+}
+.box {
+    height: 200px;
+    width: 1200px;
+    padding: 15px 13px;
+    margin: 10px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #E8AFCE;
+}

@@ -1,0 +1,20 @@
+.video{
+    width: 800px;
+    height: 600px;
+    margin: 180px 100px;
+    text-align: center;
+}
+iframe{
+    width: 962px;
+    height: 573px;
+    margin: 11px 0px;
+}
+footer{
+    font-size: 50px;
+    background-color: #4C0027;
+    color: white;
+    height: 200px;
+    padding: 13px;
+    text-align: center;
+    font-family: 'roboto';
+}

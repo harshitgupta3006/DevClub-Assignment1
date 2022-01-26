@@ -1,0 +1,49 @@
+.box1 {
+    display: block;
+    width: 50%;
+    height: 25%;
+    float: left;
+}
+
+.img1 {
+    width: 500px;
+}
+
+.box2 {
+    display: block;
+    width: 50%;
+    height: 500px;
+    float: right;
+    text-align: center;
+    font-size: 91px;
+    font-family: 'Montserrat';
+}
+
+.p1 {
+    margin: 200px 0px;
+}
+
+.box3 {
+    display: block;
+    width: 50%;
+    height: 25%;
+    float: right;
+}
+
+.img2 {
+    width: 500px;
+}
+
+.box4 {
+    display: block;
+    width: 50%;
+    height: 500px;
+    float: left;
+    text-align: center;
+    font-size: 91px;
+    font-family: 'Montserrat';
+}
+
+.p2 {
+    margin: 200px 0px;
+}

@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #4C0027;
+}
+
+.head {
+    color: white;
+    padding: 75px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    font-family: 'roboto';
+}
+
+
+li {
+    font-size: 25px;
+    display: inline;
+    padding: 45px;
+}
+
+.box1 {
+    height: 180px;
+    color: #E8AFCE;
+    padding: 85px 145px 45px;
+    font-size: 33px;
+    font-family: 'Montserrat';
+}
+
+.box2 {
+    height: 180px;
+    color: white;
+    padding: 85px 35px 45px;
+    font-size: 65px;
+    font-family: 'Montserrat';
+}
+
+.image {
+    padding: 0;
+}
+
+.image {
+    width: 400px;
+    float: right;
+}
